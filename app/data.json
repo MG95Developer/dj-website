@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "https://solamente.store/cdn/shop/products/backto.jpg?v=1617911443",
+        "title": "SWEATSHIRT 'Back to the Techno'",
+        "description": "SWEATSHIRTS WOMAN",
+        "ctaText": "More Details",
+        "ctaLink": "https://solamente.store/collections/sweatshirts-woman/products/sweatshirt-back-to-the-techno"
+    },
+    {
+        "id": 2,
+        "image": "https://solamente.store/cdn/shop/products/1604479740a5aa265e5f79fe33f46dc93572c86d3a_thumbnail_900xcopia.jpg?v=1617911349",
+        "title": "T Shirt 'Back to the Techno'",
+        "description": "T SHIRT MAN",
+        "ctaText": "More Details",
+        "ctaLink": "https://solamente.store/collections/t-shirt-man/products/t-shirt-back-to-the-techno"
+    },
+    {
+        "id": 3,
+        "image": "https://solamente.store/cdn/shop/products/thumbnail_image0.jpg?v=1610223130",
+        "title": "BIKINI swimsuit",
+        "description": "SWIMSUIT & BODY",
+        "ctaText": "More Details",
+        "ctaLink": "https://solamente.store/collections/nuova-collezione/products/two-piece-swimsuit"
+    },
+    {
+        "id": 4,
+        "image": "https://solamente.store/cdn/shop/products/topnuovo.jpg?v=1603994515",
+        "title": "WOMAN Sweatshirt TOP",
+        "description": "SWEATSHIRTS WOMAN",
+        "ctaText": "More Details",
+        "ctaLink": "https://solamente.store/collections/sweatshirts-woman/products/woman-sweatshirt-top"
+    },
+    {
+        "id": 5,
+        "image": "https://solamente.store/cdn/shop/products/technow.jpg?v=1610225744",
+        "title": "SWEATSHIRT 'TECHNO WARS'",
+        "description": "SWEATSHIRTS MAN",
+        "ctaText": "More Details",
+        "ctaLink": "https://solamente.store/collections/sweatshirts/products/sweatshirt-techno-wars"
+    }
+]
